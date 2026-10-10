@@ -1,0 +1,6 @@
+{
+  "name": "PaperForge PDF & Document Studio",
+  "description": "Zero-server, 100% in-browser workstation to convert photos to PDF, merge documents, reorder pages, compress PDFs, write illustrated notes, and export to PDF & Word (.docx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
